@@ -1,6 +1,6 @@
 # Hybrid Stickman
 
-This repository is for the Unity game titled Hybrid Stickman developed by [Hasen Göçer](https://github.com/DennisCreevey), [Emirhan Güngörmez](emirhangungormez.com) and designed Öznur Özsoy and Yasin Erhan. Created for a games publisher company [Voodoo](https://www.voodoo.io/).
+This repository is for the Unity game titled Hybrid Stickman developed by [Hasen Göçer](https://github.com/DennisCreevey), [Emirhan Güngörmez](emirhangungormez.com) and designed [Öznur Özsoy]() and [Yasin Erhan](). Created for a games publisher companies (Another one, idk :D).
 
 ## About the Game
 
